@@ -8,6 +8,8 @@ Instructions
 * Your goal is to collect the yellow fruit around the map
 * You die by hitting yourself, hitting a wall,
 * For each fruit you eat you will get bigger
+
 P5.JS Snake Game Link: https://henryplymouth.github.io/P5.JS-SnakeGameDAT514/Snake_Game/
+
 Notion Link: https://bubbly-jitterbug-2c8.notion.site/Module-Dat-514-9e83721c5bd14fe6b457cf3aa442a0a1
 
